@@ -1,0 +1,7 @@
+this is my first task in git.
+
+My name is srithar.
+
+i added some details.
+
+
